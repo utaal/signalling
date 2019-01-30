@@ -1,0 +1,12 @@
+[package]
+name = "signalling"
+description = "A lightweight signal to (un)park a single thread"
+version = "0.0.1-pre"
+authors = ["Andrea Lattuada <andrea@lattuada.me>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+
+[dev-dependencies]
+npnc = "0.2.1"
